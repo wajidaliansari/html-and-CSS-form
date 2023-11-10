@@ -1,1 +1,1 @@
-how to connect HTML form and MySQL database using Xampp server , phpMyAdmin Mysql
+how to connect HTML form and MySQL database using Xampp server , phpMyAdmin Mysql and php
